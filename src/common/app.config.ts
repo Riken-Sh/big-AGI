@@ -20,7 +20,7 @@ export const Brand = {
   URIs: {
     Home: 'https:/ellagpt.me',
     // App: 'https://get.big-agi.com',
-    CardImage: 'https://ellagpt.me/icons/card-dark-1200.png',
+    CardImage: 'https://big-agi.com/icons/card-dark-1200.png',
     OpenRepo: 'https://github.com/enricoros/big-agi',
     OpenProject: 'https://github.com/users/enricoros/projects/4',
     SupportInvite: 'https://discord.gg/MkH4qj2Jp9',
