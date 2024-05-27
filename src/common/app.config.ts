@@ -21,7 +21,7 @@ export const Brand = {
     Home: 'https:/ellagpt.me',
     // App: 'https://get.big-agi.com',
     CardImage: 'https://ellagpt.me/icons/card-dark-1200.png',
-    // OpenRepo: 'https://github.com/enricoros/big-agi',
+    OpenRepo: 'https://github.com/riken-sh/ella',
 //     OpenProject: 'https://github.com/users/enricoros/projects/4',
 //    SupportInvite: 'https://discord.gg/MkH4qj2Jp9',
     // Twitter: 'https://www.twitter.com/enricoros',
