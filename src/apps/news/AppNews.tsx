@@ -31,16 +31,6 @@ export const newsRoadmapCallout =
         Take a peek at our roadmap to see what&apos;s in the pipeline.
         Discover upcoming features and let us know what excites you the most!
       </Typography>
-      <Grid container spacing={1}>
-        <Grid xs={12} sm={5} sx={{ display: 'flex', flexAlign: 'center', justifyContent: 'center' }}>
-          <Button
-            fullWidth variant='plain' color='primary' endDecorator={<LaunchIcon />}
-            component={Link} href={Brand.URIs.OpenRepo + '/issues/new?template=roadmap-request.md&title=%5BSuggestion%5D'} noLinkStyle target='_blank'
-          >
-            Suggest a Feature
-          </Button>
-        </Grid>
-      </Grid>
     </CardContent>
   </Card>;
 
