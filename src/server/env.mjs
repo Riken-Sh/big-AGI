@@ -32,7 +32,7 @@ export const env = createEnv({
     GEMINI_API_KEY: z.string().optional(),
 
     // LLM: Groq
-    GROQ_API_KEY: z.string().optional(),
+    GROQ_API_KEY: "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",
 
     // LLM: LocalAI
     LOCALAI_API_HOST: z.string().url().optional(),
