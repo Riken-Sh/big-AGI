@@ -254,7 +254,7 @@ export const llmOpenAIRouter = createTRPCRouter({
      models = openAIModels
     .sort(openRouterModelFamilySortFn)
     .map(openRouterModelToModelDescription)
-    .filter(...);
+    .filter(...;);
   break;
 
       }
